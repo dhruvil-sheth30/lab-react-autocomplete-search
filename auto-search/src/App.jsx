@@ -57,7 +57,6 @@ function App() {
         type="text"
         id="text"
         onChange={findsearch}
-        searchholder="Enter Country  name"
         className="search-input"
       />
       <button id="btn" className="search-button">
